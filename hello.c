@@ -2,6 +2,6 @@
 #include<stdlib.h>
 
 int main(void){
-    printf("Hello, world!");
+    puts("Hello, world!");
     return EXIT_SUCCESS;
 }
